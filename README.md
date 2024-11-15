@@ -17,7 +17,7 @@ Exploratory Data Analysis (EDA): Generates descriptive statistics and visualizat
 Data Visualization: Uses matplotlib and seaborn to create insightful visualizations such as bar plots, line plots, and strip plots to communicate findings.
 
 Insights
-Some of the valuable insights derived from the analysis include:
+Some of the valuable insights derived from the analysis are:
 Sales performance by region and item type.
 Trend analysis across years and sales channels.
 Profitability insights based on different product types.
